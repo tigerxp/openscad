@@ -1,0 +1,22 @@
+{
+    "parameterSets": {
+        "dark_cheese": {
+            "corner_radius": "2",
+            "height": "5.6",
+            "length": "84.7",
+            "top": "0.6",
+            "walls": "0.6",
+            "width": "84.7"
+        },
+        "blue_puzzle": {
+            "clearance": "0.1",
+            "corner_radius": "1.5",
+            "height": "4.7",
+            "length": "67.7",
+            "top": "0.6",
+            "walls": "0.6",
+            "width": "67.7"
+        }
+    },
+    "fileFormatVersion": "1"
+}
