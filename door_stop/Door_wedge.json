@@ -1,0 +1,33 @@
+{
+    "parameterSets": {
+        "Bathroom": {
+            "Delta": "0.1",
+            "Tilt_word": "true",
+            "Wall_thickness": "2",
+            "Wedge_height": "20",
+            "Wedge_length": "80",
+            "Wedge_width": "25",
+            "Word": "BATHROOM",
+            "Word_adjust": "1.02",
+            "Word_font": "Liberation Mono",
+            "Word_stretch": "0.51",
+            "Word_style": "Bold",
+            "cyl_res": "80"
+        },
+        "Wardrobe": {
+            "Delta": "0.1",
+            "Tilt_word": "true",
+            "Wall_thickness": "2",
+            "Wedge_height": "10",
+            "Wedge_length": "70",
+            "Wedge_width": "25",
+            "Word": "WARDROBE",
+            "Word_adjust": "1.02",
+            "Word_font": "Liberation Mono",
+            "Word_stretch": "0.45",
+            "Word_style": "Bold",
+            "cyl_res": "80"
+        }
+    },
+    "fileFormatVersion": "1"
+}

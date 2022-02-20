@@ -1,0 +1,12 @@
+{
+    "parameterSets": {
+        "window_lights": {
+            "$fn": "200",
+            "height": "4",
+            "inner_radius": "8.2",
+            "open_angle": "80",
+            "wall_thickness": "2"
+        }
+    },
+    "fileFormatVersion": "1"
+}

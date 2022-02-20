@@ -9,13 +9,22 @@
             "width": "84.7"
         },
         "blue_puzzle": {
-            "clearance": "0.1",
+            "clearance": "0.05",
             "corner_radius": "1.5",
             "height": "4.7",
             "length": "67.7",
             "top": "0.6",
             "walls": "0.6",
             "width": "67.7"
+        },
+        "mouse_smaller": {
+            "clearance": "0.12",
+            "corner_radius": "5",
+            "height": "3.9",
+            "length": "101.3",
+            "top": "0.6",
+            "walls": "0.6",
+            "width": "84.8"
         }
     },
     "fileFormatVersion": "1"

@@ -1,0 +1,37 @@
+{
+    "parameterSets": {
+        "Camera Cable box": {
+            "barrier_Height": "2",
+            "barrier_Thickness": "1.2",
+            "barrier_Tolerance": "0.5",
+            "box_BottomTop_Thickness": "1.6",
+            "box_Inner_Height": "14",
+            "box_Screw_Corner_Radius": "6",
+            "box_Screw_Diameter": "3.2",
+            "box_Size_X": "40",
+            "box_Size_Y": "95",
+            "box_Wall_Thickness": "3.6",
+            "screwnose_Diameter": "4",
+            "screwnose_Height": "3.6",
+            "screwnose_Number": "2",
+            "screwnose_Wall_Thickness": "2.8"
+        },
+        "design default values": {
+            "barrier_Height": "2",
+            "barrier_Thickness": "1.2",
+            "barrier_Tolerance": "0.5",
+            "box_BottomTop_Thickness": "1.6",
+            "box_Inner_Height": "14",
+            "box_Screw_Corner_Radius": "6",
+            "box_Screw_Diameter": "3.2",
+            "box_Size_X": "40",
+            "box_Size_Y": "95",
+            "box_Wall_Thickness": "3.6",
+            "screwnose_Diameter": "4",
+            "screwnose_Height": "3",
+            "screwnose_Number": "2",
+            "screwnose_Wall_Thickness": "2.8"
+        }
+    },
+    "fileFormatVersion": "1"
+}

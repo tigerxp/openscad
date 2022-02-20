@@ -1,0 +1,17 @@
+{
+    "parameterSets": {
+        "24V trans": {
+            "cap_diameter": "45",
+            "cap_thickness": "2",
+            "mount_wall_thickness": "2",
+            "number_of_spokes": "3",
+            "part": "first",
+            "pedestal_diameter": "65",
+            "pedestal_height": "2",
+            "screw_hole_diameter": "4",
+            "transformer_height": "36",
+            "transformer_inner_diameter": "25"
+        }
+    },
+    "fileFormatVersion": "1"
+}

@@ -1,0 +1,28 @@
+{
+    "parameterSets": {
+        "desk_kb_holder": {
+            "circleRes": "40",
+            "filletCornerAxis": "1",
+            "filletCornerAxisRadius": "5",
+            "filletRadius": "5",
+            "gussetLeft": "1",
+            "gussetRight": "1",
+            "gussetSize": "20",
+            "gussetThickness": "2",
+            "holeMargin": "6",
+            "screwHoleCounterboreDepth": "2",
+            "screwHoleCounterboreDiameter": "6.5",
+            "screwHoleDiameter": "3.4",
+            "side1HoleOffset": "12",
+            "side1HoleSpacing": "12",
+            "side1Holes": "2",
+            "side2HoleOffset": "10",
+            "side2HoleSpacing": "12",
+            "side2Holes": "2",
+            "thickness": "5",
+            "widthHoleSpacing": "12",
+            "widthHoles": "2"
+        }
+    },
+    "fileFormatVersion": "1"
+}

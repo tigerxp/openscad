@@ -1,0 +1,18 @@
+{
+    "parameterSets": {
+        "Art": {
+            "bottomThickness": "1.2",
+            "boxHeight": "30",
+            "boxLength": "110",
+            "boxWidth": "65",
+            "cornerRadius": "5",
+            "itemsShown": "box",
+            "lidClearance": "0.2",
+            "lidEdgeThickness": "0.5",
+            "lidThickness": "1.6",
+            "wallThickness": "1.2",
+            "withNotch": "true"
+        }
+    },
+    "fileFormatVersion": "1"
+}

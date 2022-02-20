@@ -1,0 +1,21 @@
+{
+    "parameterSets": {
+        "bedroom": {
+            "$fn": "32",
+            "bottom_window_width": "25",
+            "engraving_depth": "1",
+            "height": "70",
+            "remote_text": "[\"TV\", \"Bed\", \"UFO\"]",
+            "remote_thickness": "28",
+            "remote_width": "[49, 59, 49]",
+            "screw_head_diameter": "0",
+            "screw_head_height": "3",
+            "screw_hole_diameter": "0",
+            "slope_offset": "10",
+            "wall_width": "2",
+            "x_window": "4",
+            "z_window": "10"
+        }
+    },
+    "fileFormatVersion": "1"
+}

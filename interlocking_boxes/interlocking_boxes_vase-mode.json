@@ -1,0 +1,43 @@
+{
+    "parameterSets": {
+        "mini": {
+            "BoxFloor": "1",
+            "BoxHeight": "20",
+            "BoxLengthUnits": "3",
+            "BoxUnits": "25",
+            "BoxWall": "1",
+            "BoxWidthUnits": "1",
+            "DTAngle": "45",
+            "DTInsideLength": "4",
+            "DTWidth": "2",
+            "FitFactor": "0.15",
+            "NorthWallOpen": "0",
+            "SouthWallOpen": "0"
+        },
+        "design default values": {
+            "BoxFloor": "1",
+            "BoxHeight": "15",
+            "BoxLengthUnits": "3",
+            "BoxUnits": "25",
+            "BoxWall": "1.2",
+            "BoxWidthUnits": "1",
+            "DTAngle": "45",
+            "DTInsideLength": "3.6",
+            "DTWidth": "1.2",
+            "FitFactor": "0.15",
+            "NorthWallOpen": "0",
+            "SouthWallOpen": "0"
+        },
+        "mini-1x3": {
+            "BoxHeight": "15",
+            "BoxLengthUnits": "2",
+            "BoxUnits": "25",
+            "BoxWidthUnits": "1",
+            "DTAngle": "45",
+            "DTInsideLength": "2",
+            "DTWidth": "2",
+            "FitFactor": "0.12"
+        }
+    },
+    "fileFormatVersion": "1"
+}

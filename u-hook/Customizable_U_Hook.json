@@ -1,0 +1,30 @@
+{
+    "parameterSets": {
+        "backpack": {
+            "$fn": "150",
+            "bracket": "0",
+            "bracket_round": "0",
+            "bracket_size": "40",
+            "bracket_stiffness": "2.5",
+            "extremity": "1",
+            "hook_size": "30",
+            "rounded_top": "1",
+            "safety_screw": "0",
+            "screw_diam": "3.5",
+            "screw_head": "7",
+            "screw_head_h": "2.5",
+            "screw_holes": "1",
+            "second_hook": "0",
+            "second_hook_angle": "55",
+            "second_hook_lenght": "30",
+            "spacer_1": "8",
+            "spacer_2": "8",
+            "spacer_3": "8",
+            "spacer_4": "8",
+            "stop_lenght": "15",
+            "thickness": "20",
+            "tolerance": "0.4"
+        }
+    },
+    "fileFormatVersion": "1"
+}

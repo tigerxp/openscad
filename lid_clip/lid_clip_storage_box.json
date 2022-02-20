@@ -1,0 +1,20 @@
+{
+    "parameterSets": {
+        "blue box": {
+            "$fn": "40",
+            "Clip_number": "1",
+            "Clip_thickness": "4",
+            "Clip_width": "8",
+            "Section_A": "6",
+            "Section_B": "8",
+            "Section_BR": "4",
+            "Section_C": "23",
+            "Section_CR": "6",
+            "Section_D": "15",
+            "Section_E": "5",
+            "Section_F": "4",
+            "epsilon": "0.1"
+        }
+    },
+    "fileFormatVersion": "1"
+}

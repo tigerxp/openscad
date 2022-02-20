@@ -1,0 +1,24 @@
+{
+    "parameterSets": {
+        "Camera Cables Box": {
+            "$fn": "100",
+            "nozzle_size": "0.4",
+            "number_of_walls": "3",
+            "part": "both",
+            "radius": "4",
+            "tolerance": "0.2"
+        },
+        "Camera Cable Box": {
+            "$fn": "100",
+            "height": "20",
+            "length": "90",
+            "nozzle_size": "0.4",
+            "number_of_walls": "3",
+            "part": "both",
+            "radius": "4",
+            "tolerance": "0.2",
+            "width": "40"
+        }
+    },
+    "fileFormatVersion": "1"
+}

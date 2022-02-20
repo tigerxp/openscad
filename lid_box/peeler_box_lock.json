@@ -1,0 +1,23 @@
+{
+    "parameterSets": {
+        "xiaomi_peeler": {
+            "$fn": "120",
+            "coverThickness": "1",
+            "eps": "0.1",
+            "hingeFillet": "3",
+            "hingeLengthScale": "1.2",
+            "hingeThickness": "0.4",
+            "hingeWidth": "16",
+            "interiorFillet": "2",
+            "interiorHeight": "20",
+            "interiorLength": "42",
+            "interiorWidth": "78",
+            "lidInsetHeight": "1.6",
+            "lidInsetOffset": "0",
+            "rimInset": "0.6",
+            "sidewallWidth": "1.2",
+            "tabSize": "1"
+        }
+    },
+    "fileFormatVersion": "1"
+}

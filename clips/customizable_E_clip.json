@@ -1,0 +1,12 @@
+{
+    "parameterSets": {
+        "window": {
+            "gap1": "3.6",
+            "gap2": "0.5",
+            "height": "20",
+            "thickness": "2",
+            "width": "5"
+        }
+    },
+    "fileFormatVersion": "1"
+}
